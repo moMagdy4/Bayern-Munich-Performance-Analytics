@@ -55,8 +55,6 @@ bayern-munich-performance-analytics/
 
 ## Analysis and Visualizations
 The analysis includes detailed visualizations created using Power BI, showcasing the performance metrics of Bayern Munich across different seasons. The Power BI files can be found in the `Power BI` directory.
-Here is a sample visualization of Bayern Munich's performance:
-![Bayern Munich Performance Visualization](images/visualization1.png)
 
 ## Usage
 To use the scripts for data collection and processing:

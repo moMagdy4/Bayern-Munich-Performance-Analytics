@@ -1,0 +1,35 @@
+id,datetime,season,competition,home_team,away_team,home_goals,away_goals,name_of_team,xG,xG_conceded,result,opponent,venue
+23065,2023-08-18 18:30:00,2023-2024,Bundesliga,Werder Bremen,Bayern Munich,0,4,Bayern Munich,2.89704,0.63974,L,Werder Bremen,Away
+23082,2023-08-27 15:30:00,2023-2024,Bundesliga,Bayern Munich,Augsburg,3,1,Bayern Munich,2.82296,0.726241,W,Augsburg,Home
+23089,2023-09-02 16:30:00,2023-2024,Bundesliga,Borussia M.Gladbach,Bayern Munich,1,2,Bayern Munich,2.14949,0.201237,L,Borussia M.Gladbach,Away
+23092,2023-09-15 18:30:00,2023-2024,Bundesliga,Bayern Munich,Bayer Leverkusen,2,2,Bayern Munich,2.74374,2.4584,D,Bayer Leverkusen,Home
+23104,2023-09-23 13:30:00,2023-2024,Bundesliga,Bayern Munich,Bochum,7,0,Bayern Munich,6.02607,0.0892044,W,Bochum,Home
+23116,2023-09-30 16:30:00,2023-2024,Bundesliga,RasenBallsport Leipzig,Bayern Munich,2,2,Bayern Munich,1.95099,0.793383,D,RasenBallsport Leipzig,Away
+23126,2023-10-08 15:30:00,2023-2024,Bundesliga,Bayern Munich,Freiburg,3,0,Bayern Munich,2.37438,0.0704987,W,Freiburg,Home
+23134,2023-10-21 16:30:00,2023-2024,Bundesliga,Mainz 05,Bayern Munich,1,3,Bayern Munich,1.68693,0.975025,L,Mainz 05,Away
+23137,2023-10-28 13:30:00,2023-2024,Bundesliga,Bayern Munich,Darmstadt,8,0,Bayern Munich,5.884,0.924873,W,Darmstadt,Home
+23146,2023-11-04 17:30:00,2023-2024,Bundesliga,Borussia Dortmund,Bayern Munich,0,4,Bayern Munich,2.86067,1.47623,L,Borussia Dortmund,Away
+23155,2023-11-11 14:30:00,2023-2024,Bundesliga,Bayern Munich,FC Heidenheim,4,2,Bayern Munich,2.60786,1.04526,W,FC Heidenheim,Home
+23169,2023-11-24 19:30:00,2023-2024,Bundesliga,FC Cologne,Bayern Munich,0,1,Bayern Munich,3.8999,0.189125,L,FC Cologne,Away
+23184,2023-12-09 14:30:00,2023-2024,Bundesliga,Eintracht Frankfurt,Bayern Munich,5,1,Bayern Munich,2.59277,1.84651,W,Eintracht Frankfurt,Away
+23191,2023-12-17 18:30:00,2023-2024,Bundesliga,Bayern Munich,VfB Stuttgart,3,0,Bayern Munich,3.41522,0.309157,W,VfB Stuttgart,Home
+23204,2023-12-20 19:30:00,2023-2024,Bundesliga,Wolfsburg,Bayern Munich,1,2,Bayern Munich,3.15053,0.313193,L,Wolfsburg,Away
+23209,2024-01-12 19:30:00,2023-2024,Bundesliga,Bayern Munich,Hoffenheim,3,0,Bayern Munich,3.4164,1.61888,W,Hoffenheim,Home
+23218,2024-01-21 14:30:00,2023-2024,Bundesliga,Bayern Munich,Werder Bremen,0,1,Bayern Munich,1.54562,0.429252,L,Werder Bremen,Home
+23173,2024-01-24 18:30:00,2023-2024,Bundesliga,Bayern Munich,Union Berlin,1,0,Bayern Munich,2.172,0.477644,W,Union Berlin,Home
+23234,2024-01-27 14:30:00,2023-2024,Bundesliga,Augsburg,Bayern Munich,2,3,Bayern Munich,2.27504,2.68517,L,Augsburg,Away
+23236,2024-02-03 14:30:00,2023-2024,Bundesliga,Bayern Munich,Borussia M.Gladbach,3,1,Bayern Munich,2.58401,0.780069,W,Borussia M.Gladbach,Home
+23250,2024-02-10 17:30:00,2023-2024,Bundesliga,Bayer Leverkusen,Bayern Munich,3,0,Bayern Munich,0.710198,1.22993,W,Bayer Leverkusen,Away
+23260,2024-02-18 16:30:00,2023-2024,Bundesliga,Bochum,Bayern Munich,3,2,Bayern Munich,2.86883,2.08495,W,Bochum,Away
+23271,2024-02-24 17:30:00,2023-2024,Bundesliga,Bayern Munich,RasenBallsport Leipzig,2,1,Bayern Munich,1.83179,0.57703,W,RasenBallsport Leipzig,Home
+23273,2024-03-01 19:30:00,2023-2024,Bundesliga,Freiburg,Bayern Munich,2,2,Bayern Munich,2.4424,1.53977,D,Freiburg,Away
+23281,2024-03-09 14:30:00,2023-2024,Bundesliga,Bayern Munich,Mainz 05,8,1,Bayern Munich,6.78137,1.07439,W,Mainz 05,Home
+23298,2024-03-16 14:30:00,2023-2024,Bundesliga,Darmstadt,Bayern Munich,2,5,Bayern Munich,5.11913,1.2476,L,Darmstadt,Away
+23299,2024-03-30 17:30:00,2023-2024,Bundesliga,Bayern Munich,Borussia Dortmund,0,2,Bayern Munich,1.90876,1.25844,L,Borussia Dortmund,Home
+23315,2024-04-06 13:30:00,2023-2024,Bundesliga,FC Heidenheim,Bayern Munich,3,2,Bayern Munich,2.12066,1.35048,W,FC Heidenheim,Away
+23317,2024-04-13 13:30:00,2023-2024,Bundesliga,Bayern Munich,FC Cologne,2,0,Bayern Munich,2.34705,0.766768,W,FC Cologne,Home
+23327,2024-04-20 16:30:00,2023-2024,Bundesliga,Union Berlin,Bayern Munich,1,5,Bayern Munich,1.92795,1.06863,L,Union Berlin,Away
+23335,2024-04-27 13:30:00,2023-2024,Bundesliga,Bayern Munich,Eintracht Frankfurt,2,1,Bayern Munich,3.29649,0.392852,W,Eintracht Frankfurt,Home
+23351,2024-05-04 13:30:00,2023-2024,Bundesliga,VfB Stuttgart,Bayern Munich,3,1,Bayern Munich,1.92761,2.0106,W,VfB Stuttgart,Away
+23353,2024-05-12 15:30:00,2023-2024,Bundesliga,Bayern Munich,Wolfsburg,2,0,Bayern Munich,0.37152,0.132383,W,Wolfsburg,Home
+23367,2024-05-18 13:30:00,2023-2024,Bundesliga,Hoffenheim,Bayern Munich,4,2,Bayern Munich,1.69159,2.44188,W,Hoffenheim,Away

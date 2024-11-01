@@ -1,0 +1,35 @@
+id,datetime,season,competition,home_team,away_team,home_goals,away_goals,name_of_team,xG,xG_conceded,result,opponent,venue
+12403,2019-08-16 19:30:00,2019-2020,Bundesliga,Bayern Munich,Hertha Berlin,2,2,Bayern Munich,2.47707,1.18459,D,Hertha Berlin,Home
+12418,2019-08-24 17:30:00,2019-2020,Bundesliga,Schalke 04,Bayern Munich,0,3,Bayern Munich,1.59729,1.08016,L,Schalke 04,Away
+12425,2019-08-31 14:30:00,2019-2020,Bundesliga,Bayern Munich,Mainz 05,6,1,Bayern Munich,3.34597,0.72047,W,Mainz 05,Home
+12436,2019-09-14 16:30:00,2019-2020,Bundesliga,RasenBallsport Leipzig,Bayern Munich,1,1,Bayern Munich,1.6704,1.65427,D,RasenBallsport Leipzig,Away
+12442,2019-09-21 13:30:00,2019-2020,Bundesliga,Bayern Munich,FC Cologne,4,0,Bayern Munich,2.92351,1.03267,W,FC Cologne,Home
+12449,2019-09-28 13:30:00,2019-2020,Bundesliga,Paderborn,Bayern Munich,2,3,Bayern Munich,3.47305,0.281111,L,Paderborn,Away
+12461,2019-10-05 14:30:00,2019-2020,Bundesliga,Bayern Munich,Hoffenheim,1,2,Bayern Munich,1.77327,0.723738,L,Hoffenheim,Home
+12466,2019-10-19 14:30:00,2019-2020,Bundesliga,Augsburg,Bayern Munich,2,2,Bayern Munich,3.06071,2.14428,D,Augsburg,Away
+12476,2019-10-26 14:30:00,2019-2020,Bundesliga,Bayern Munich,Union Berlin,2,1,Bayern Munich,2.88476,1.7324,W,Union Berlin,Home
+12487,2019-11-02 14:30:00,2019-2020,Bundesliga,Eintracht Frankfurt,Bayern Munich,5,1,Bayern Munich,1.08228,2.99704,W,Eintracht Frankfurt,Away
+12493,2019-11-09 17:30:00,2019-2020,Bundesliga,Bayern Munich,Borussia Dortmund,4,0,Bayern Munich,3.90951,0.608676,W,Borussia Dortmund,Home
+12505,2019-11-23 14:30:00,2019-2020,Bundesliga,Fortuna Duesseldorf,Bayern Munich,0,4,Bayern Munich,3.81728,0.443491,L,Fortuna Duesseldorf,Away
+12512,2019-11-30 17:30:00,2019-2020,Bundesliga,Bayern Munich,Bayer Leverkusen,1,2,Bayern Munich,2.24624,1.44804,L,Bayer Leverkusen,Home
+12523,2019-12-07 14:30:00,2019-2020,Bundesliga,Borussia M.Gladbach,Bayern Munich,2,1,Bayern Munich,1.74378,1.33084,W,Borussia M.Gladbach,Away
+12529,2019-12-14 14:30:00,2019-2020,Bundesliga,Bayern Munich,Werder Bremen,6,1,Bayern Munich,5.83554,0.536081,W,Werder Bremen,Home
+12544,2019-12-18 19:30:00,2019-2020,Bundesliga,Freiburg,Bayern Munich,1,3,Bayern Munich,4.41404,2.13825,L,Freiburg,Away
+12547,2019-12-21 14:30:00,2019-2020,Bundesliga,Bayern Munich,Wolfsburg,2,0,Bayern Munich,1.58412,0.889656,W,Wolfsburg,Home
+12559,2020-01-19 14:30:00,2019-2020,Bundesliga,Hertha Berlin,Bayern Munich,0,4,Bayern Munich,2.96455,0.82925,L,Hertha Berlin,Away
+12565,2020-01-25 17:30:00,2019-2020,Bundesliga,Bayern Munich,Schalke 04,5,0,Bayern Munich,3.90217,0.401432,W,Schalke 04,Home
+12579,2020-02-01 14:30:00,2019-2020,Bundesliga,Mainz 05,Bayern Munich,1,3,Bayern Munich,2.03579,0.332903,L,Mainz 05,Away
+12583,2020-02-09 17:00:00,2019-2020,Bundesliga,Bayern Munich,RasenBallsport Leipzig,0,0,Bayern Munich,1.0745,1.76051,D,RasenBallsport Leipzig,Home
+12598,2020-02-16 14:30:00,2019-2020,Bundesliga,FC Cologne,Bayern Munich,1,4,Bayern Munich,3.04216,2.03908,L,FC Cologne,Away
+12601,2020-02-21 19:30:00,2019-2020,Bundesliga,Bayern Munich,Paderborn,3,2,Bayern Munich,3.2444,1.47195,W,Paderborn,Home
+12613,2020-02-29 14:30:00,2019-2020,Bundesliga,Hoffenheim,Bayern Munich,0,6,Bayern Munich,4.77962,0.554679,L,Hoffenheim,Away
+12619,2020-03-08 14:30:00,2019-2020,Bundesliga,Bayern Munich,Augsburg,2,0,Bayern Munich,4.05804,1.0173,W,Augsburg,Home
+12636,2020-05-17 16:00:00,2019-2020,Bundesliga,Union Berlin,Bayern Munich,0,2,Bayern Munich,1.39334,0.548769,L,Union Berlin,Away
+12638,2020-05-23 16:30:00,2019-2020,Bundesliga,Bayern Munich,Eintracht Frankfurt,5,2,Bayern Munich,3.59062,1.03034,W,Eintracht Frankfurt,Home
+12652,2020-05-26 16:30:00,2019-2020,Bundesliga,Borussia Dortmund,Bayern Munich,0,1,Bayern Munich,0.769692,0.616596,L,Borussia Dortmund,Away
+12655,2020-05-30 16:30:00,2019-2020,Bundesliga,Bayern Munich,Fortuna Duesseldorf,5,0,Bayern Munich,3.02763,0.723584,W,Fortuna Duesseldorf,Home
+12666,2020-06-06 13:30:00,2019-2020,Bundesliga,Bayer Leverkusen,Bayern Munich,2,4,Bayern Munich,2.6513,0.768558,L,Bayer Leverkusen,Away
+12673,2020-06-13 16:30:00,2019-2020,Bundesliga,Bayern Munich,Borussia M.Gladbach,2,1,Bayern Munich,1.77878,0.983991,W,Borussia M.Gladbach,Home
+12687,2020-06-16 18:30:00,2019-2020,Bundesliga,Werder Bremen,Bayern Munich,0,1,Bayern Munich,1.33112,0.274502,L,Werder Bremen,Away
+12691,2020-06-20 13:30:00,2019-2020,Bundesliga,Bayern Munich,Freiburg,3,1,Bayern Munich,2.14695,1.42671,W,Freiburg,Home
+12703,2020-06-27 13:30:00,2019-2020,Bundesliga,Wolfsburg,Bayern Munich,0,4,Bayern Munich,3.22208,0.745741,L,Wolfsburg,Away
